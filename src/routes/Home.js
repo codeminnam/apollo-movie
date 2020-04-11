@@ -1,7 +1,7 @@
 import React from "react";
 import {gql} from "apollo-boost";
 import { useQuery } from "@apollo/react-hooks";
-import styled from "styled-components";
+// import styled from "styled-components";
 
 const GET_MOVIES = gql`
     {
